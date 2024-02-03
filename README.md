@@ -8,7 +8,7 @@ My name is Smita Gautam. I hold a Master's degree in Business Analytics and a Ba
 Here's my resume: 
 
 <br>
-This repository serves to showcase my projects and achievements throughout my journey as a data analyst. My repository comprises codes and information encompassing academic, personal (for learning and enjoyment), and professional projects.
+This repository serves to showcase my projects and achievements throughout my journey as a Data Analyst. My repository comprises codes and information encompassing academic, personal (for learning and enjoyment), and professional projects.
 
 <br>
 
