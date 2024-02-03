@@ -17,28 +17,30 @@ This repository serves to showcase my projects and achievements throughout my jo
 
 ### Hotel ADR Prediction Project
 **Code:** [`Hotel ADR Prediction Project.ipynb`](https://github.com/gsmitaa/gsmitaa/blob/a1ae8fa1993ca5239e2c52b69562e151fdf145f9/Python%20Codes%20and%20Projects/Hotel%20ADR%20Prediction%20Project.ipynb)   
-**Descriptive Analysis & Visualization:** [Tableau Public Link](https://public.tableau.com/views/AnalysisofHotelPerformanceandCustomerBehavior/Dashboard7?:language=en-US&:display_count=n&:origin=viz_share_link)
+**Descriptive Analysis & Visualization:** [Click here to go to Tableau Public](https://public.tableau.com/views/AnalysisofHotelPerformanceandCustomerBehavior/Dashboard7?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 **Description:**  
 **Skills:** 
 **Technology:** 
 **Results:** 
 
 ### London Neighborhood Analysis
-**Code:** [`London Neighborhood Analysis .ipynb`](https://github.com/gsmitaa/gsmitaa/blob/8608a8c8dcb5d89f90872caa86bcae58fcd1669d/Python%20Codes%20and%20Projects/London%20Neighborhood%20Analysis.ipynb)   
+**Code:** [`London Neighborhood Analysis.ipynb`](https://github.com/gsmitaa/gsmitaa/blob/8608a8c8dcb5d89f90872caa86bcae58fcd1669d/Python%20Codes%20and%20Projects/London%20Neighborhood%20Analysis.ipynb)   
 **Description:**  
 **Skills:** 
 **Technology:** 
 **Results:** 
 
 ### Nepali Vegetable Market Analysis
-**Code:** [`Nepal Vegetable Market .ipynb`](https://github.com/gsmitaa/gsmitaa/blob/8608a8c8dcb5d89f90872caa86bcae58fcd1669d/Python%20Codes%20and%20Projects/Nepali%20Vegetable%20Market%20Analysis.ipynb)   
+**Code:** [`Nepal Vegetable Market.ipynb`](https://github.com/gsmitaa/gsmitaa/blob/8608a8c8dcb5d89f90872caa86bcae58fcd1669d/Python%20Codes%20and%20Projects/Nepali%20Vegetable%20Market%20Analysis.ipynb)   
 **Description:**  
 **Skills:** 
 **Technology:** 
 **Results:** 
 
 ### Texas Electricity Pricing Analysis
-**Link:** ---> [Click here](https://public.tableau.com/views/TexasElectricityPricingAnalysisStory/Story1?:language=en-US&:display_count=n&:origin=viz_share_link) 
+**Link:** [Click here to go to Tableau Public](https://public.tableau.com/views/TexasElectricityPricingAnalysisStory/Story1?:language=en-US&:display_count=n&:origin=viz_share_link) 
+
 **Description:**  
 **Skills:** 
 **Technology:** 
