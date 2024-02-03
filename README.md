@@ -21,6 +21,13 @@ This repository serves to showcase my projects and achievements throughout my jo
 **Technology:** 
 **Results:** 
 
+### Texas Electricity Pricing Analysis
+**Link:** [Click here to go to Tableau Public](https://public.tableau.com/views/TexasElectricityPricingAnalysisStory/Story1?:language=en-US&:display_count=n&:origin=viz_share_link) 
+**Description:**  
+**Skills:** 
+**Technology:** 
+**Results:** 
+
 ### London Neighborhood Analysis
 **Code:** [`London Neighborhood Analysis.ipynb`](https://github.com/gsmitaa/gsmitaa/blob/8608a8c8dcb5d89f90872caa86bcae58fcd1669d/Python%20Codes%20and%20Projects/London%20Neighborhood%20Analysis.ipynb)   
 **Description:**  
@@ -35,11 +42,12 @@ This repository serves to showcase my projects and achievements throughout my jo
 **Technology:** 
 **Results:** 
 
-### Texas Electricity Pricing Analysis
-**Link:** [Click here to go to Tableau Public](https://public.tableau.com/views/TexasElectricityPricingAnalysisStory/Story1?:language=en-US&:display_count=n&:origin=viz_share_link) 
+### Medical Resources Optimization Model
+**Code:** ['Optimization Project.ipynb'](https://public.tableau.com/views/TexasElectricityPricingAnalysisStory/Story1?:language=en-US&:display_count=n&:origin=viz_share_link) 
 **Description:**  
 **Skills:** 
 **Technology:** 
 **Results:** 
+
 
 
