@@ -17,11 +17,11 @@ This repository serves to showcase my projects and achievements throughout my jo
 
 ### Hotel ADR Prediction Project
 **Code:** [`Hotel ADR Prediction Project.ipynb`](https://github.com/gsmitaa/gsmitaa/blob/a1ae8fa1993ca5239e2c52b69562e151fdf145f9/Python%20Codes%20and%20Projects/Hotel%20ADR%20Prediction%20Project.ipynb)   
-
+**Visualization:** ['Tableau Public Link
 **Description:**  
 **Skills:** 
 **Technology:** 
 **Results:** 
 
 ### Tableau Projects
-**My Tableau Public account** ---> [go to Tableau..] (https://public.tableau.com/app/profile/smita1571/vizzes) 
+**My Tableau Public account** ---> [Click here to go to Tableau..](https://public.tableau.com/app/profile/smita1571/vizzes) 
