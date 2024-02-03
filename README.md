@@ -43,7 +43,7 @@ This repository serves to showcase my projects and achievements throughout my jo
 **Results:** 
 
 ### Medical Resources Optimization Model
-**Code:** ['Optimization Project.ipynb'](https://public.tableau.com/views/TexasElectricityPricingAnalysisStory/Story1?:language=en-US&:display_count=n&:origin=viz_share_link) 
+**Code:** ['Optimization Project.ipynb'](https://github.com/gsmitaa/Data-Analyst-Portfolio/blob/af2af0911270bf6413d77fc586841e9e6176c5a7/Python%20Codes%20and%20Projects/Optimization%20Model.ipynb) 
 **Description:**  
 **Skills:** 
 **Technology:** 
