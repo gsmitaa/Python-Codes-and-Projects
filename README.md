@@ -5,8 +5,6 @@
 Hello!
 My name is Smita Gautam. I hold a Master's degree in Business Analytics and a Bachelor's in Finance with a minor in IT. I have 3 years of experience of working as a Data Analyst in the Finance Industry.
 
-Here's my resume: [Smita_Gautam_Resume](https://github.com/gsmitaa/gsmitaa/blob/b207ee5b694c8f8363b0bc34075342244ead4a13/Smita_Gautam_Resume..pdf)
-
 <br>
 This repository serves to showcase my projects and achievements throughout my journey as a Data Analyst. My repository comprises codes and information encompassing academic, personal (for learning and enjoyment), and professional projects.
 
