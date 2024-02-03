@@ -30,4 +30,5 @@ This repository serves to showcase my projects and achievements throughout my jo
 **Technology:** 
 **Results:** 
 
-
+### Tableau Projects
+**My Tableau Public account** ---> [go to Tableau..](https://public.tableau.com/app/profile/smita1571/vizzes)https://public.tableau.com/app/profile/smita1571/vizzes)  
