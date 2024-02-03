@@ -12,13 +12,6 @@ This repository serves to showcase my projects and achievements throughout my jo
 
 <br>
 
-## Table of contents
-- [About](#about)
-- [Portfolio Projects](#portfolio-projects)
-	+ [Hotel ADR Prediction Project](#)
-	+ [Tableau Vizzes](#tableau-vizzes)
-- [Certificates](#certificates)
-- [Contacts](#contacts)
 
 
 
