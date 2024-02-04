@@ -46,7 +46,7 @@ This repository serves to showcase my projects and achievements throughout my jo
 
 ### Medical Resources Optimization Model
 **Code:** [`Optimization Model.ipynb`](https://github.com/gsmitaa/Data-Analyst-Portfolio/blob/af2af0911270bf6413d77fc586841e9e6176c5a7/Python%20Codes%20and%20Projects/Optimization%20Model.ipynb) 
-**Description:**  
+**Description:** The dataset was acquired from the GitHub repository associated with the Medical Resource Optimization Program (MRO) collaboration between the Cleveland Clinic and SAS Institute. The input data consists of seven tables, each contributing specific information to the hierarchical definition within the model. These tables cover aspects such as resource capacity, utilization, service attributes, financials, historical demand, and forecasted demand. 
 **Skills:** 
 **Technology:** 
 **Results:** 
