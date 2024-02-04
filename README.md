@@ -15,7 +15,7 @@ This repository serves to showcase my projects and achievements throughout my jo
 
 ### Hotel Average Daily Rate Prediction
 **Code:** [`Hotel Average Daily Rate Prediction.ipynb`](https://github.com/gsmitaa/Data-Analyst-Portfolio/blob/23e199170416f615decc4320a69259a539370afa/Python%20Codes%20and%20Projects/Hotel%20Average%20Daily%20Rate%20Prediction.ipynb)   
-**Descriptive Analysis & Visualization:** [Click here to go to Tableau Public](https://public.tableau.com/views/AnalysisofHotelPerformanceandCustomerBehavior/Dashboard7?:language=en-US&:display_count=n&:origin=viz_share_link)
+** Descriptive Analysis & Visualization:** [Click here to go to Tableau Public](https://public.tableau.com/views/AnalysisofHotelPerformanceandCustomerBehavior/Dashboard7?:language=en-US&:display_count=n&:origin=viz_share_link)
 **Details:**  The data article comprises two datasets containing hotel demand data, specifically for a resort hotel (H1) and a city hotel (H2), both sharing a common structure with 31 variables, detailing 40,060 observations for H1 and 79,330 observations for H2.
 **Skills:** Data Cleaning and Preprocessing, Descriptive Analysis, Visualization, Linear Regression Model, Decision Trees Model, Neural Networks Model.
 **Technology:** Python, Jupyter Notebook, Pandas, NumPy, scikit-learn, Tensorflow, Msatplotlib
