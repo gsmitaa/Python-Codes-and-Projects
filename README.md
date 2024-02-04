@@ -18,7 +18,7 @@ This repository serves to showcase my projects and achievements throughout my jo
 **Descriptive Analysis & Visualization:**  [Click here to go to Tableau Public](https://public.tableau.com/views/AnalysisofHotelPerformanceandCustomerBehavior/Dashboard7?:language=en-US&:display_count=n&:origin=viz_share_link)                              
 **Details:** The data article comprises two datasets containing hotel demand data, specifically for a resort hotel (H1) and a city hotel (H2), both sharing a common structure with 31 variables, detailing 40,060 observations for H1 and 79,330 observations for H2.               
 **Skills:** Data Cleaning and Preprocessing, Descriptive Analysis, Visualization, Linear Regression Model, Decision Trees Model, Neural Networks Model.               
-**Technology:** Python, Jupyter Notebook, Pandas, NumPy, scikit-learn, Tensorflow, Matplotlib.                      
+**Technology:** Python Programming, Pandas, NumPy, scikit-learn, Tensorflow, Matplotlib.                      
 **Goal:** The goal was to predict hotel Average Daily Rate (ADR) using three models (Linear Regression, Neural Network, and Decision Trees), and the results demonstrated varying predictive performance across the models.                     
 
 
@@ -31,11 +31,11 @@ This repository serves to showcase my projects and achievements throughout my jo
 **Results:** The analysis uncovered patterns such as seasonal price peaks in August, consistent pricing during other months, and a significant price spike during the February 2021 winter storm. The data also highlighted correlations between temperature, load, and price fluctuations, emphasizing the impact of unexpected weather events on electricity demand and prices.     
 
 ### London Neighborhood Analysis
-**Code:** [`London Neighborhood Analysis.ipynb`](https://github.com/gsmitaa/gsmitaa/blob/8608a8c8dcb5d89f90872caa86bcae58fcd1669d/Python%20Codes%20and%20Projects/London%20Neighborhood%20Analysis.ipynb)        
-**Description:**  
-**Skills:** 
-**Technology:** 
-**Results:** 
+**Code:** [`London Neighborhood Analysis.ipynb`](https://github.com/gsmitaa/gsmitaa/blob/8608a8c8dcb5d89f90872caa86bcae58fcd1669d/Python%20Codes%20and%20Projects/London%20Neighborhood%20Analysis.ipynb)                
+**Description:** The dataset involves housing trends in London, encompassing monthly variables for 33 boroughs and additional areas, covering aspects such as average housing prices, houses sold, and crime rates, with a total of 13,549 entries and 7 columns, including information on date, area, average price, houses sold, number of crimes, and a borough flag indicating London boroughs (1) or areas outside London (0).       
+**Skills:** Data Cleaning, Descriptive Analysis, Grouping and Aggregation, Visualization, Time Series Analysis, Statistical Measures, Plotting Relationships, Correlation Analysis.
+**Technology:** Python Programming, Pandas, Matplotlib, Seaborn
+**Results:** The analysis undertaken aimed to explore various variables to discern their impact on the housing market in London and its outskirts. The analysis identified areas characterized by higher property prices, popularity, and crime rates. Additionally, the project delved into the relationships between diverse variables, including but not limited to salary, population, and area size.
 
 ### Nepali Vegetable Market Analysis
 **Code:** [`Nepal Vegetable Market.ipynb`](https://github.com/gsmitaa/gsmitaa/blob/8608a8c8dcb5d89f90872caa86bcae58fcd1669d/Python%20Codes%20and%20Projects/Nepali%20Vegetable%20Market%20Analysis.ipynb)   
