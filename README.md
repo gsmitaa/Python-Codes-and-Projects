@@ -14,16 +14,16 @@ This repository serves to showcase my projects and achievements throughout my jo
 
 
 ### Hotel Average Daily Rate Prediction
-**Code:** [`Hotel Average Daily Rate Prediction.ipynb`](https://github.com/gsmitaa/Data-Analyst-Portfolio/blob/23e199170416f615decc4320a69259a539370afa/Python%20Codes%20and%20Projects/Hotel%20Average%20Daily%20Rate%20Prediction.ipynb)   
-**Descriptive Analysis & Visualization:** [Click here to go to Tableau Public](https://public.tableau.com/views/AnalysisofHotelPerformanceandCustomerBehavior/Dashboard7?:language=en-US&:display_count=n&:origin=viz_share_link)
+**Code:** 
+**Descriptive Analysis & Visualization:** 
 **Details:** The data article comprises two datasets containing hotel demand data, specifically for a resort hotel (H1) and a city hotel (H2), both sharing a common structure with 31 variables, detailing 40,060 observations for H1 and 79,330 observations for H2.
 **Skills:** Data Cleaning and Preprocessing, Descriptive Analysis, Visualization, Linear Regression Model, Decision Trees Model, Neural Networks Model.
 **Technology:** Python, Jupyter Notebook, Pandas, NumPy, scikit-learn, Tensorflow, Msatplotlib
 **Goal:** The goal was to predict hotel Average Daily Rate (ADR) using three models (Linear Regression, Neural Network, and Decision Trees), and the results demonstrated varying predictive performance across the models.
 
 
-**Code:** [`final_project.ipynb`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/final_project.ipynb)    
-**Presentation:** [`my_project_slides.pdf`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/my_project_slides.pdf)   
+**Code:** [`Hotel Average Daily Rate Prediction.ipynb`](https://github.com/gsmitaa/Data-Analyst-Portfolio/blob/23e199170416f615decc4320a69259a539370afa/Python%20Codes%20and%20Projects/Hotel%20Average%20Daily%20Rate%20Prediction.ipynb)      
+**Presentation:** [Click here to go to Tableau Public](https://public.tableau.com/views/AnalysisofHotelPerformanceandCustomerBehavior/Dashboard7?:language=en-US&:display_count=n&:origin=viz_share_link) 
 **Description:** The final project for 5 month Data Analysis Course. Setup: you're employed in a mobile games development company. A Product Manager gives you following tasks: to find and visualize retention, to make a decision based on the A/B test data, to suggest a number of metrics to evaluate the results of the last monthly campaign.   
 **Skills:** data cleaning, detecting data anomalies, python coding, data visualization, descriptive statistics, dealing with outliers, A/B tests, Shapiro–Wilk test, Levene's test, data transforms, Mann–Whitney U test, proportions z-test, bootstrapping, defining metrics.    
 **Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels Stats, Bootstrap.     
