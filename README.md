@@ -38,7 +38,7 @@ This repository serves to showcase my projects and achievements throughout my jo
 **Results:** The analysis undertaken aimed to explore various variables to discern their impact on the housing market in London and its outskirts. The analysis identified areas characterized by higher property prices, popularity, and crime rates. Additionally, the project delved into the relationships between diverse variables, including but not limited to salary, population, and area size.   
 
 ### Medical Resources Optimization Model
-**Code:** [`Medical Resources Optimization Model.ipynb`](https://github.com/gsmitaa/Data-Analyst-Portfolio/blob/6ca47577df049ea659891f8e84bb9e032c2a8da9/Python%20Codes%20and%20Projects/Medical%20Resources%20Optimization%20Model.ipynb) 
+**Code:** [`Medical Resources Optimization Model.ipynb`](https://github.com/gsmitaa/Data-Analyst-Portfolio/blob/6ca47577df049ea659891f8e84bb9e032c2a8da9/Python%20Codes%20and%20Projects/Medical%20Resources%20Optimization%20Model.ipynb)      
 **Description:** The dataset was acquired from the GitHub repository associated with the Medical Resource Optimization Program (MRO) collaboration between the Cleveland Clinic and SAS Institute. The input data consists of seven tables, each contributing specific information to the hierarchical definition within the model. These tables cover aspects such as resource capacity, utilization, service attributes, financials, historical demand, and forecasted demand.   
 **Skills:** Data Cleaning and Transformation, Triangle Distribution for Demand Forecasting, Decision Variables and Constraints, Optimization Model, Optimization Solver.  
 **Technology:** Python Programming, Pandas, SciPy, PuLP, Matplotlib, NumPy.   
