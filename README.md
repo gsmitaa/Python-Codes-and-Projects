@@ -18,7 +18,7 @@ This repository is a compilation showcasing my journey as a Data Analyst, featur
 **Skills:** Data Cleaning and Preprocessing, Descriptive Analysis, Visualization, Linear Regression Model, Decision Trees Model, Neural Networks Model.                         
 **Technology:** Python Programming, Pandas, NumPy, scikit-learn, Tensorflow, Matplotlib.        
 **Goals:** The goal was to predict hotel Average Daily Rate (ADR) using three models (Linear Regression, Neural Network, and Decision Trees), and the results demonstrated varying predictive performance across the models.                     
-
+<br>
 
 ### Texas Electricity Pricing Analysis
 **Link:** [Click here to go to Tableau Public](https://public.tableau.com/views/TexasElectricityPricingAnalysisStory/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)       
@@ -28,12 +28,16 @@ This repository is a compilation showcasing my journey as a Data Analyst, featur
 **Goal:** The project aimed to examine the factors influencing electricity prices in the largest deregulated sector in Texas, revealing insights through Tableau analysis.          
 **Results:** The analysis uncovered patterns such as seasonal price peaks in August, consistent pricing during other months, and a significant price spike during the February 2021 winter storm. The data also highlighted correlations between temperature, load, and price fluctuations, emphasizing the impact of unexpected weather events on electricity demand and prices.     
 
+<br>
+
 ### London Neighborhood Analysis
 **Code:** [`London Neighborhood Analysis.ipynb`](https://github.com/gsmitaa/gsmitaa/blob/8608a8c8dcb5d89f90872caa86bcae58fcd1669d/Python%20Codes%20and%20Projects/London%20Neighborhood%20Analysis.ipynb)                
 **Description:** The dataset involves housing trends in London, encompassing monthly variables for 33 boroughs and additional areas, covering aspects such as average housing prices, houses sold, and crime rates, with a total of 13,549 entries and 7 columns, including information on date, area, average price, houses sold, number of crimes, and a borough flag indicating London boroughs (1) or areas outside London (0).       
 **Skills:** Data Cleaning, Descriptive Analysis, Grouping and Aggregation, Visualization, Time Series Analysis, Statistical Measures, Plotting Relationships, Correlation Analysis.       
 **Technology:** Python Programming, Pandas, Matplotlib, Seaborn.         
 **Goals and Results:** The analysis undertaken aimed to explore various variables to discern their impact on the housing market in London and its outskirts. The analysis identified areas characterized by higher property prices, popularity, and crime rates. Additionally, the project delved into the relationships between diverse variables, including but not limited to salary, population, and area size.   
+
+<br>
 
 ### Medical Resources Optimization Model
 **Code:** [`Medical Resources Optimization Model.ipynb`](https://github.com/gsmitaa/Data-Analyst-Portfolio/blob/6ca47577df049ea659891f8e84bb9e032c2a8da9/Python%20Codes%20and%20Projects/Medical%20Resources%20Optimization%20Model.ipynb)      
@@ -42,6 +46,7 @@ This repository is a compilation showcasing my journey as a Data Analyst, featur
 **Technology:** Python Programming, Pandas, SciPy, PuLP, Matplotlib, NumPy.   
 **Goal and Results:** The project aims to optimize the daily offering of medical sub-services by maximizing profit, ensuring resource utilization is within available limits, and meeting demand. 
 
+<br>
 
 ### Nepali Vegetable Market Analysis
 **Code:** [`Nepal Vegetable Market.ipynb`](https://github.com/gsmitaa/gsmitaa/blob/8608a8c8dcb5d89f90872caa86bcae58fcd1669d/Python%20Codes%20and%20Projects/Nepali%20Vegetable%20Market%20Analysis.ipynb)   
