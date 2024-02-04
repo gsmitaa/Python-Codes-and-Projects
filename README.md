@@ -6,11 +6,10 @@ Hello!
 My name is Smita Gautam. I hold a Master's degree in Business Analytics and a Bachelor's in Finance with a minor in IT. I have 3 years of experience of working as a Data Analyst in the Finance Industry.
 
 <br>
-This repository serves to showcase my projects and achievements throughout my journey as a Data Analyst. My repository comprises codes and information encompassing select academic, personal, and professional projects.
+
+This repository is a compilation showcasing my journey as a Data Analyst, featuring codes and information from select academic, personal, and professional projects that highlight my growth and achievements in the field.
 
 <br>
-
-
 
 
 ### Hotel Average Daily Rate Prediction
@@ -47,10 +46,10 @@ This repository serves to showcase my projects and achievements throughout my jo
 
 ### Nepali Vegetable Market Analysis
 **Code:** [`Nepal Vegetable Market.ipynb`](https://github.com/gsmitaa/gsmitaa/blob/8608a8c8dcb5d89f90872caa86bcae58fcd1669d/Python%20Codes%20and%20Projects/Nepali%20Vegetable%20Market%20Analysis.ipynb)   
-**Description:**  
-**Skills:** 
-**Technology:** 
-**Results:** 
+**Description:** The dataset comprises Nepali vegetable market information, including commodity details, date, unit, and price statistics, from June 16, 2013, to May 13, 2021, with 197,161 entries.     
+**Skills:** Descriptive Statistics, Data Cleaning, Visualization, Time Series Analysis, Pivot Table Analysis.    
+**Technology:** Python Programming, Pandas, Matplotlib, statsmodels, Seaborn.      
+**Results:** The goal of the project was to analyze Nepali vegetable market data, ensuring data cleanliness, performing visualizations, time series analysis, and exploring top-selling commodities, with results highlighting key insights, seasonal patterns, and average prices across years.
 
 
 
